@@ -32,6 +32,7 @@ pip install pygame
 python grid_sniffer.py
 
 ## 📁 Files
+```txt
 grid_sniffer/
 ├── grid_sniffer.py       # Main game file
 ├── assets/               # Images and sounds
