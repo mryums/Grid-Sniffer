@@ -1,6 +1,6 @@
-🧨 Grid Sniffer
-Grid Sniffer is a fun Minesweeper-style game built with Python and Pygame.
-Sniff the grid, avoid the bombs, and clear all the safe spots!
+🧨 Grid Sniffer – Sniff the Grid, Dodge the Boom!
+Welcome to Grid Sniffer, a fun little minesweeper-style game where your job is to dig safe spots and avoid hidden bombs 💣.
+Use your brain, your instincts, and maybe a bit of luck to sniff out all the safe tiles!
 
 🎮 How to Play
 
