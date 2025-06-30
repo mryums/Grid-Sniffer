@@ -26,8 +26,7 @@ Welcome to **Grid Sniffer**, a fun little Minesweeper-style game where your job 
 
 1. ✅ Install Python 3  
 2. ✅ Install Pygame: pip install pygame
-   
-✅ Run the game: python grid_sniffer.py
+3. ✅ Run the game: python grid_sniffer.py
 
 ## 📁 Files
     ```txt
