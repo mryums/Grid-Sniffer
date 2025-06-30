@@ -10,12 +10,14 @@ Sniff the grid, avoid the bombs, and clear all the safe spots!
 ✅ Clear all safe cells = You Win!
 
 🔧 Features
+
 Easy, Medium, Hard levels
 Timer & Sounds (if available)
 Bombs & flags shown with images or emojis
 Play again or return to the menu after each round
 
 ▶️ How to Run
+
 1. Install Python 3
 2. Install Pygame:
 pip install pygame
@@ -24,6 +26,7 @@ Run the game:
 python grid_sniffer.py
 
 📁 Files
+
 grid_sniffer.py – main file
 assets/ – images & sound
 README.md – this file
