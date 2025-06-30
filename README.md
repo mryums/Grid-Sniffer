@@ -32,11 +32,15 @@ pip install pygame
 python grid_sniffer.py
 
 ## 📁 Files
-```txt
-grid_sniffer/
-├── grid_sniffer.py       # Main game file
-├── assets/               # Images and sounds
-└── README.md             # This file
-
-
+    ```txt
+      grid_sniffer/
+      ├── grid_sniffer.py       # Main game file
+      ├── assets/               # Images and sounds
+      └── README.md             # This file
+      
 Made for fun and learning. Try not to boom 💣!
+
+      
+
+
+
