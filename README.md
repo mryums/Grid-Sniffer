@@ -21,6 +21,12 @@ Welcome to **Grid Sniffer**, a fun little Minesweeper-style game where your job 
 - 🔁 Play again or return to the menu after each round  
 
 ---
+## 📸 Screenshots
+
+![Start Screen](assets/screenshots/start.png)
+![Playing](assets/screenshots/playing.png)
+![Game Over](assets/screenshots/gameover.png)
+![You Win](assets/screenshots/youwin.png)
 
 ## ▶️ How to Run
 
