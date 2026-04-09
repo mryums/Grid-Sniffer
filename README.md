@@ -23,10 +23,13 @@ Welcome to **Grid Sniffer**, a fun little Minesweeper-style game where your job 
 ---
 ## 📸 Screenshots
 
-![Start Screen](assets/screenshots/start.png)
-![Playing](assets/screenshots/playing.png)
-![Game Over](assets/screenshots/gameover.png)
-![You Win](assets/screenshots/youwin.png)
+![Screenshot 1](assets/screenshots/screenshot1.jpeg)
+![Screenshot 2](assets/screenshots/screenshot2.jpeg)
+![Screenshot 3](assets/screenshots/screenshot3.jpeg)
+![Screenshot 4](assets/screenshots/screenshot5.jpeg)
+![Screenshot 1](assets/screenshots/screenshot6.jpeg)
+![Screenshot 2](assets/screenshots/screenshot7.jpeg)
+
 
 ## ▶️ How to Run
 
